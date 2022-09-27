@@ -6,7 +6,7 @@ The goal of the ML GasFee Application was to devise an algorithm that would reco
 
 ## High-level Overview
 
-The app utilizes a recurrent neural network (RNN) - a machine learning model that takes into account data weekly Ethereum gas fee prices reports, collects them, frames then, learns upon them and serves them into production.
+The app utilizes a recurrent neural network (RNN) - a machine learning model that takes into account data weekly Ethereum gas fee prices reports, collects them, frames them, learns upon them and serves them into production.
 
 ## How to use it
 
